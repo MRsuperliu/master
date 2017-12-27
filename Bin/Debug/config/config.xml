@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="System"?>
+<root>
+    <m_sourceFolder>D:\MRSuperLiu\test1</m_sourceFolder>
+    <m_destFolder>D:\MRSuperLiu\test</m_destFolder>
+    <m_fileType>
+        <fileType>*.jpg</fileType>
+        <fileType>*.png</fileType>
+        <fileType>*.jpeg</fileType>
+        <fileType>*.bmp</fileType>
+		<fileType>*.gif</fileType>
+    </m_fileType>
+</root>
